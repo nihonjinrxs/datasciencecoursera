@@ -6,3 +6,13 @@
 
 # R data files from past sessions
 .Rdata
+.Rproj.user
+
+# R project files
+*.Rproj
+
+# Data files
+R-programming/*/specdata
+R-programming/*/specdata/*
+*.zip
+
